@@ -1,5 +1,5 @@
 # ⚡ Flash Prompt
-[Flash Prompt](https://flash-prompt.vercel.app/) é uma ferramenta web moderna desenvolvida por **Dário** para ajudar desenvolvedores a criar prompts de programação estruturados e de alta qualidade para modelos de linguagem de IA em segundos.
+[Flash Prompt](https://www.flashprompt.site) é uma ferramenta web moderna desenvolvida por **Dário** para ajudar desenvolvedores a criar prompts de programação estruturados e de alta qualidade para modelos de linguagem de IA em segundos.
 
 ## ✨ O que o site oferece
 - **Construtor de Prompts Inteligente**: Crie prompts personalizados com base em linguagem, boas práticas e finalidade.
@@ -11,7 +11,7 @@
 - **Interface Responsiva e Moderna**: Design elegante com ShadCN UI e Tailwind CSS.
 
 ## 🌐 Acesse
-👉 [flash-prompt.vercel.app](https://flash-prompt.vercel.app/)
+👉 [www.flashprompt.site](https://www.flashprompt.site/)
 
 ## ⚠️ Código fechado
 Este projeto é **proprietário** e não possui código-fonte aberto. Todo o conteúdo, design e funcionalidades foram desenvolvidos por **Dário**.
