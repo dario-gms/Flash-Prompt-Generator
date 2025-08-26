@@ -5,7 +5,8 @@
 
 ### 🎯 Múltiplas Ferramentas de Geração
 - **Gerador de Prompt de Código**: Crie prompts detalhados para programação com suporte a diversas linguagens, regras de boas práticas e configurações avançadas
-- **Gerador de Prompt de Documentação**: Desenvolva prompts para criar documentação técnica, APIs, READMEs, manuais e muito mais
+- **Gerador de Prompt de Documentação**: Desenvolva prompts para criar documentação técnica, APIs, manuais do usuário, guias de instalação e muito mais
+- **Gerador de Prompt de README**: Construa prompts específicos para criar READMEs profissionais com badges, seções estruturadas, informações do projeto e diferentes estilos de apresentação
 - **Mais ferramentas em breve**: Expandindo constantemente para cobrir diferentes necessidades de prompt
 
 ### ⚡ Geração em Tempo Real
