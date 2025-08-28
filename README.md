@@ -8,6 +8,8 @@
 - **Gerador de Prompt de Documentação**: Desenvolva prompts para criar documentação técnica, APIs, manuais do usuário, guias de instalação e muito mais
 - **Gerador de Prompt de README**: Construa prompts específicos para criar READMEs profissionais com badges, seções estruturadas, informações do projeto e diferentes estilos de apresentação
 - **Gerador de Prompt de Currículo**: Crie prompts direcionados para aprimorar seu currículo com diferentes focos profissionais, estilos e formatos de saída
+- **Gerador de Prompt de Imagem**: Gere prompts criativos para criação de imagens com IA, com controle detalhado sobre estilo, composição, qualidade e elementos visuais
+- **Gerador de Prompt de Texto**: Gere prompts para edição de texto com IA, com controle detalhado sobre ação, formato, contexto, estilo, complexidade e formato de saída
 - **Mais ferramentas em breve**: Expandindo constantemente para cobrir diferentes necessidades de prompt
 
 ### ⚡ Geração em Tempo Real
@@ -23,6 +25,7 @@
 ### 🎨 Interface Moderna e Responsiva
 - **Design Cards**: Navegação intuitiva com cards para cada tipo de gerador
 - **Modo Claro/Escuro**: Adapta-se à preferência do sistema ou escolha manual
+- **Telas de Carregamento**: Transições suaves entre páginas e funcionalidades
 - **ShadCN UI + Tailwind CSS**: Interface elegante e responsiva
 - **Experiência Mobile**: Funciona perfeitamente em todos os dispositivos
 
