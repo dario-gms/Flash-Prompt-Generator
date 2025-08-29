@@ -32,6 +32,7 @@
 ### 💾 Recursos Avançados
 - **Histórico de Prompts**: Reutilize e edite facilmente os últimos 5 prompts gerados automaticamente
 - **Favoritar Prompts**: Salve prompts importantes localmente com nomes personalizados para acesso permanente
+- **Salvar Prompts**: Exporte prompts como arquivos .json para armazenar no computador e importar posteriormente
 - **Compartilhamento de Prompts**: Compartilhe prompts através de links únicos para usar em outros navegadores ou computadores
 - **Cópia com Um Clique**: Copie prompts prontos instantaneamente
 - **Configurações Detalhadas**: Personalize nível de detalhamento, formato, finalidade e muito mais
@@ -47,6 +48,13 @@
 - **Acesso Rápido**: Encontre e reutilize facilmente seus prompts mais importantes
 - **Organização Eficiente**: Diferente do histórico automático, os favoritos ficam salvos até você removê-los
 
+### 📁 Importar e Exportar
+- **Exportação de Prompts**: Salve prompts como arquivos .json no seu computador
+- **Nomenclatura Inteligente**: Arquivos salvos automaticamente com nome-do-favorito-tipo.json (ex: "prompt-de-imagem-image.json")
+- **Compatibilidade Específica**: Cada arquivo só pode ser importado pela ferramenta correspondente ao seu tipo
+- **Backup Pessoal**: Mantenha cópias de segurança dos seus prompts mais valiosos
+- **Portabilidade Total**: Transfira prompts entre diferentes computadores e instalações
+
 ## 🛠️ Casos de Uso
 
 ### Para Desenvolvedores
@@ -56,6 +64,7 @@
 - Automatizar tarefas de desenvolvimento
 - Compartilhar prompts de código com a equipe
 - Favoritar prompts de código mais utilizados para acesso rápido
+- Exportar prompts de código como arquivos .json para backup e versionamento
 
 ### Para Redatores Técnicos
 - Produzir manuais de usuário estruturados
@@ -64,6 +73,7 @@
 - Gerar changelogs e releases notes
 - Colaborar com prompts padronizados
 - Manter templates de documentação favoritos sempre acessíveis
+- Criar biblioteca de prompts exportados para diferentes projetos
 
 ### Para Criadores de Conteúdo
 - Estruturar prompts para diferentes tipos de conteúdo
@@ -72,6 +82,7 @@
 - Economizar tempo na criação de prompts
 - Compartilhar templates de prompts eficazes
 - Organizar prompts favoritos por categoria ou projeto
+- Fazer backup de prompts criativos em arquivos .json
 
 ### Para Equipes e Colaboração
 - Padronizar prompts em projetos de equipe
@@ -79,6 +90,8 @@
 - Manter consistência na geração de conteúdo
 - Facilitar onboarding com prompts pré-configurados
 - Criar biblioteca de prompts favoritos da equipe
+- Distribuir prompts padronizados via arquivos .json
+- Manter versionamento de prompts através de exports
 
 ## 🌐 Acesse Agora
 👉 [www.flashprompt.site](https://www.flashprompt.site/)
@@ -98,6 +111,7 @@
 - **Armazenamento local** para histórico, favoritos e preferências
 - **Sistema de compartilhamento** com links únicos e seguros
 - **Gerenciamento de favoritos** com persistência local e nomes personalizados
+- **Sistema de importação/exportação** com compatibilidade específica por tipo de prompt
 
 ## ⚠️ Código Fechado
 Este projeto é **proprietário** e não possui código-fonte aberto. Todo o conteúdo, design e funcionalidades foram desenvolvidos por [dario-gms](https://github.com/dario-gms).
