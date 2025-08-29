@@ -31,8 +31,14 @@
 
 ### 💾 Recursos Avançados
 - **Histórico de Prompts**: Reutilize e edite facilmente os últimos prompts gerados
+- **Compartilhamento de Prompts**: Compartilhe prompts através de links únicos para usar em outros navegadores ou computadores
 - **Cópia com Um Clique**: Copie prompts prontos instantaneamente
 - **Configurações Detalhadas**: Personalize nível de detalhamento, formato, finalidade e muito mais
+
+### 🔗 Colaboração e Compartilhamento
+- **Links de Compartilhamento**: Gere links únicos para compartilhar prompts criados
+- **Acesso Multi-dispositivo**: Use o mesmo prompt em diferentes navegadores e computadores
+- **Facilidade de Colaboração**: Compartilhe prompts com equipe e colegas instantaneamente
 
 ## 🛠️ Casos de Uso
 
@@ -41,18 +47,27 @@
 - Criar documentação técnica e APIs
 - Estabelecer padrões de código e boas práticas
 - Automatizar tarefas de desenvolvimento
+- Compartilhar prompts de código com a equipe
 
 ### Para Redatores Técnicos
 - Produzir manuais de usuário estruturados
 - Criar guias de instalação e configuração
 - Desenvolver documentação de produtos
 - Gerar changelogs e releases notes
+- Colaborar com prompts padronizados
 
 ### Para Criadores de Conteúdo
 - Estruturar prompts para diferentes tipos de conteúdo
 - Otimizar interações com modelos de IA
 - Padronizar processos criativos
 - Economizar tempo na criação de prompts
+- Compartilhar templates de prompts eficazes
+
+### Para Equipes e Colaboração
+- Padronizar prompts em projetos de equipe
+- Compartilhar melhores práticas através de links
+- Manter consistência na geração de conteúdo
+- Facilitar onboarding com prompts pré-configurados
 
 ## 🌐 Acesse Agora
 👉 [www.flashprompt.site](https://www.flashprompt.site/)
@@ -70,6 +85,7 @@
 - **Otimização de renderização** com React hooks
 - **Carregamento rápido** e interface responsiva
 - **Armazenamento local** para histórico e preferências
+- **Sistema de compartilhamento** com links únicos e seguros
 
 ## ⚠️ Código Fechado
 Este projeto é **proprietário** e não possui código-fonte aberto. Todo o conteúdo, design e funcionalidades foram desenvolvidos por [dario-gms](https://github.com/dario-gms).
