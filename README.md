@@ -30,7 +30,8 @@
 - **Experiência Mobile**: Funciona perfeitamente em todos os dispositivos
 
 ### 💾 Recursos Avançados
-- **Histórico de Prompts**: Reutilize e edite facilmente os últimos prompts gerados
+- **Histórico de Prompts**: Reutilize e edite facilmente os últimos 5 prompts gerados automaticamente
+- **Favoritar Prompts**: Salve prompts importantes localmente com nomes personalizados para acesso permanente
 - **Compartilhamento de Prompts**: Compartilhe prompts através de links únicos para usar em outros navegadores ou computadores
 - **Cópia com Um Clique**: Copie prompts prontos instantaneamente
 - **Configurações Detalhadas**: Personalize nível de detalhamento, formato, finalidade e muito mais
@@ -40,6 +41,12 @@
 - **Acesso Multi-dispositivo**: Use o mesmo prompt em diferentes navegadores e computadores
 - **Facilidade de Colaboração**: Compartilhe prompts com equipe e colegas instantaneamente
 
+### ⭐ Sistema de Favoritos
+- **Favoritos Personalizados**: Salve prompts importantes com nomes customizados
+- **Armazenamento Local**: Mantenha seus prompts favoritos salvos permanentemente no navegador
+- **Acesso Rápido**: Encontre e reutilize facilmente seus prompts mais importantes
+- **Organização Eficiente**: Diferente do histórico automático, os favoritos ficam salvos até você removê-los
+
 ## 🛠️ Casos de Uso
 
 ### Para Desenvolvedores
@@ -48,6 +55,7 @@
 - Estabelecer padrões de código e boas práticas
 - Automatizar tarefas de desenvolvimento
 - Compartilhar prompts de código com a equipe
+- Favoritar prompts de código mais utilizados para acesso rápido
 
 ### Para Redatores Técnicos
 - Produzir manuais de usuário estruturados
@@ -55,6 +63,7 @@
 - Desenvolver documentação de produtos
 - Gerar changelogs e releases notes
 - Colaborar com prompts padronizados
+- Manter templates de documentação favoritos sempre acessíveis
 
 ### Para Criadores de Conteúdo
 - Estruturar prompts para diferentes tipos de conteúdo
@@ -62,12 +71,14 @@
 - Padronizar processos criativos
 - Economizar tempo na criação de prompts
 - Compartilhar templates de prompts eficazes
+- Organizar prompts favoritos por categoria ou projeto
 
 ### Para Equipes e Colaboração
 - Padronizar prompts em projetos de equipe
 - Compartilhar melhores práticas através de links
 - Manter consistência na geração de conteúdo
 - Facilitar onboarding com prompts pré-configurados
+- Criar biblioteca de prompts favoritos da equipe
 
 ## 🌐 Acesse Agora
 👉 [www.flashprompt.site](https://www.flashprompt.site/)
@@ -84,8 +95,9 @@
 - **Clean Code** com separação de responsabilidades
 - **Otimização de renderização** com React hooks
 - **Carregamento rápido** e interface responsiva
-- **Armazenamento local** para histórico e preferências
+- **Armazenamento local** para histórico, favoritos e preferências
 - **Sistema de compartilhamento** com links únicos e seguros
+- **Gerenciamento de favoritos** com persistência local e nomes personalizados
 
 ## ⚠️ Código Fechado
 Este projeto é **proprietário** e não possui código-fonte aberto. Todo o conteúdo, design e funcionalidades foram desenvolvidos por [dario-gms](https://github.com/dario-gms).
